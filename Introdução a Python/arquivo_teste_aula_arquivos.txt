@@ -1,0 +1,17 @@
+
+Sobreescrevendo arquivo
+Segunda linha no arquivo
+Agora estou usando o modo a
+            para anexar este texto ao final
+            do arquivo, sem apagar oque já tem lá
+
+Agora da forma Pythonica 
+with open('arquivo_teste_aula_arquivos.txt', 'a') as f:
+    f.white(texto)
+
+Agora da forma Pythonica 
+with open('arquivo_teste_aula_arquivos.txt', 'a') as f:
+    f.white(texto)
+Agora estou usando o modo a
+            para anexar este texto ao final
+            do arquivo, sem apagar oque já tem lá
