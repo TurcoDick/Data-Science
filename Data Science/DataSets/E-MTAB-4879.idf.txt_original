@@ -1,0 +1,37 @@
+Comment[ArrayExpressAccession]	E-MTAB-4879
+MAGE-TAB Version	1.1																																				
+Investigation Title	RNASeq of musculoskeletal ageing using human mesenchymal stem cells and their tissue constructs																																				
+Comment[Submitted Name]	RNASeq of musculoskeletal ageing using human mesenchymal stem cells and their tissue constructs
+Experiment Description	Human bone-marrow-derived mesenchymal stem cells from young and old donors  and tenogenic, chondrogenic and osteogenic constructs derived from these were subject to RNASeq and miRNASeq. We wished to identify common pathways of musculoskeletal ageing.																																				
+Experimental Design	disease state design	development or differentiation design	species design																																		
+Experimental Design Term Source REF	EFO	EFO	EFO																																		
+Experimental Design Term Accession Number	EFO_0001756	EFO_0001746	EFO_0001753																																		
+Experimental Factor Name	developmental stage	cell type																																			
+Experimental Factor Type	developmental stage	cell type																																			
+Experimental Factor Term Source REF																																					
+Experimental Factor Term Accession Number																																					
+Person Last Name	Peffers																																				
+Person First Name	mandy																																				
+Person Mid Initials																																					
+Person Email	peffs@liv.ac.uk																																				
+Person Phone	1517946116																																				
+Person Fax																																					
+Person Address																																					
+Person Affiliation	Musculoskeletal Biology, Institute of Ageing and Chronic Disaese, Leahurst, Chester High Road, Neston, Wirral, CH647TE																																				
+Person Roles	submitter																																				
+Date of Experiment	2014-05-01																																				
+Public Release Date	2016-12-28																																				
+Protocol Name	P-MTAB-50666	P-MTAB-50667	P-MTAB-50668	P-MTAB-50669
+Protocol Type	sample collection protocol	sample collection protocol	nucleic acid sequencing protocol	nucleic acid library construction protocol																																	
+Protocol Term Source REF	EFO	EFO	EFO	EFO																																	
+Protocol Term Accession Number	EFO_0005518	EFO_0005518	EFO_0004170	EFO_0004184																																	
+Protocol Description	MScs purchased from young and old human donors	miRNAeasy kit for RNA extraction	Libraries were checked on the Agilent Bioanalyser with a High sensitivity chip and quantities determined with Qubit DNA High sensitivity reagents. Libraries were pooled into 5 mixes for sequencing. The quantity and quality of the final pools were assessed using Qubit (Invitrogen) and Bioanalyzer (Agilent) and subsequently qPCR using the Illumina Library Quantification Kit from Kapa on a Roche Light Cycler LC480II according to manufacturer's instructions. The template DNA was denatured according to the protocol described in the Illumina cBot User guide and loaded at 9 pM concentration. To improve sequencing quality control 1% PhiX was spiked-in. The sequencing was carried out on five lanes of an Illumina HiSeq 2000 with version 3 chemistry generating 2  100 bp paired end reads.	Total RNA samples were ribosomal RNA depleted using the Human, mouse, rat low inputRibozero kit from Epicentre. 1ug of RNA (or the max amount available) was mixed with the low input kit baits and allowed to anneal. This was then mixed with the magnetic microspheres which bind the ribosomal complexes and subsequently pulled out with a magnet. The remaining RNA was purified with RNA clean beads and analysed with the Agilent Bioanalyser with a RNA pico chip. Recovery was generally less than 1% of the original starting material. All of this material was used in the script seq reaction (Epicentre). Samples were denatured and annealed to cDNA primers and cDNA was generated. This was amplified with indexed primers for 15 cycles to make the library for sequencing. Libraries were checked on the Agilent Bioanalyser with a High sensitivity chip and quantities determined with Qubit DNA High sensitivity reagents.																																	
+Protocol Hardware			Illumina HiSeq 2000																																		
+Protocol Software			PTA 1.17.21.3																																		
+Term Source Name	EFO
+Term Source File	http://www.ebi.ac.uk/efo/																																				
+Term Source Version																																					
+Comment[AEExperimentType]	RNA-seq of coding RNA																																				
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR1514446-ERR1514475																																				
+Comment[SecondaryAccession]	ERP016347																																				
+SDRF File	E-MTAB-4879.sdrf.txt
