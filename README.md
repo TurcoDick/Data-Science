@@ -1,1 +1,1 @@
-Pequenos trechos de códigos sobre data science.
+Introdução a Machine Learning com Python.
